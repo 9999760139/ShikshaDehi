@@ -1,0 +1,58 @@
+.crsl1{
+    margin-bottom:20px;
+    /* height:"50vh"; */
+    /* width:100%; */
+    /* margin-top:90px; */
+    /* background-size:50% 50%; */
+    background-color: silver;
+    /* height:50vh; */
+}
+
+.crsl_text_div{
+    height:35vh;
+}
+.crl_text1{
+    height:100%;
+    text-align: center;
+    padding:5% 0px 5% 0px;
+    /* height: 40%; */
+    background-size:100% 100%;
+}
+.crl_text1 p{
+    padding:8px 8%;
+}
+
+/* this is for carousel3 */
+/* .crsl_div{
+    height:40vh;
+    width:100%;
+    color:white;
+    background-image: url("https://www.w3schools.com/w3images/lights.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.crsl_div_div{
+    height:40vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+/* this is for carousel 2 */
+/* img{
+    height:50vh;
+} */
+/* .carousel-indicators button{
+    background-color:white;
+} */
+/* .carousel-caption{
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+} */
+/* .carousel-caption h5{
+    color: #fff;
+} 
+.carousel-caption p{
+    color: #fff;
+}  */

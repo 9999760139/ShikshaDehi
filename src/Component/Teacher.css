@@ -1,0 +1,32 @@
+.main{
+    /* background-color:rgb(165, 165, 165); */
+    text-align:center;
+}
+.text{
+    padding:20px 0px;
+    text-align:center;
+    background-color: #ffffff;
+    /* margin:20px 0px; */
+}
+/* .text h1{background-color: #ffffff;} */
+.card_img{
+    margin:auto auto;
+}
+.icons{
+    padding:10px 8px 10px 8px;
+    margin-bottom:20px;
+}
+#btn{
+    text-align:center;
+    background-color:#000000;
+    color:#ffffff;
+    border:2px solid black;
+    padding:10px 15px;
+    margin:8px auto;
+}
+.btn_div{padding:20px 0px 20px 0px; 
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+}

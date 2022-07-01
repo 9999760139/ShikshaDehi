@@ -1,0 +1,94 @@
+*{
+  font-size:13px;
+  font-family: arial,x-locale-body,sans-serif;
+  
+}
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/*  */
+.what_we_do{
+  text-align:center;
+  margin:0px auto;
+  padding:50px 0px;
+  background-color:rgb(226, 226, 226);
+}
+
+.img_div{
+  display:grid;
+  grid-template-rows:repeat(2,1fr);
+}
+.two_img{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+}
+
+
+
+.footer_start{
+  background-color:rgb(219, 219, 219);
+  text-align:center;
+}
+.footer_end{
+  background-color:rgb(226, 226, 226);
+}
+
+.crsl2_heading{
+  float:left;
+  position:relative;
+  margin-top:10px;
+  margin-left:10px; 
+}
+.appbar{
+  margin-bottom:20px;
+}
+.appbar_crsl2{
+  position:relative;
+  margin:50px 100px;
+  display:flex;
+  justify-content:space-between;
+
+}
+.crsl_2{
+  background-color:rgb(226, 226, 226)
+}
+.clgrid{
+  text-align:center;
+}
+

@@ -1,0 +1,17 @@
+.link_btn{
+    /* width: 50px; */
+    display:flex;
+    padding:0px auto;
+    /* align-items: center; */
+        /* justify-content: center;
+        align-items: center; */
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+}
+.rights{
+}
+.terms_services{
+    padding:0px auto;
+}
